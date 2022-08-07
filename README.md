@@ -1,6 +1,6 @@
 ## I'm [Stian](https://www.stianj.com/) 👋
 
-🚙 Developer and co-founder at [Hyre](https://www.hyre.no/), currently **working on launching [Hyre in Stockholm](https://www.hyre.se/)!**
+🚙 Developer and co-founder at [Hyre](https://www.hyre.no/).
 
 🩳 Unsure what to wear today? Visit [shortsdag.no](https://shortsdag.no) to see if you should wear shorts!
 
